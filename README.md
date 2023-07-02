@@ -17,4 +17,6 @@ Vroomissimo est un projet "bonus" que j'ai pu réaliser durant ma formation dév
 
 # 2- La base de données
 
+# 3- Le projet en détail
 
+# 4- Conclusion
