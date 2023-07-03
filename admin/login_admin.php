@@ -1,7 +1,7 @@
 <?php
 
 //connexion à la base de données
-include 'admin/config.php';
+include 'config.php';
 
 //ouverture de la session
 session_start();
