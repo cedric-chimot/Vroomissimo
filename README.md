@@ -26,4 +26,9 @@ Vroomissimo est un projet "bonus" que j'ai pu réaliser durant ma formation dév
 ![accueil2-vroomissimo](https://github.com/cedric-chimot/Vroomissimo/assets/106061524/e8125b86-bcff-432e-93be-20a0465bcd92)
 ![accueil3-vroomissimo](https://github.com/cedric-chimot/Vroomissimo/assets/106061524/e9ef14af-4a29-4ed6-a73f-28915414024f)
 
+# _3.2 La section "à propos"_
+
+![apropos-vroomissimo](https://github.com/cedric-chimot/Vroomissimo/assets/106061524/0a4db36c-c827-4b3e-be6d-2f3630051d7e)
+![apropos1-vroomissimo](https://github.com/cedric-chimot/Vroomissimo/assets/106061524/4384dd4b-992f-4cc4-adf0-7c6cbc24f06f)
+
 # 4- Conclusion
