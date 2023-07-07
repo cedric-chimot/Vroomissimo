@@ -46,7 +46,7 @@ On retrouve ici les différents vendeurs inscrits sur le site.
 
 ![avis-vroomissimo](https://github.com/cedric-chimot/Vroomissimo/assets/106061524/2cb0f539-061c-472c-8283-c5e3b673e911)
 
-La note moyenne est obtenue grâce à une fonction Javascript calculée avec les informations de la base de données. On fait ressortir également le nombre de commentaires permettant le calcul de cette note.
+La note moyenne est obtenue grâce à une fonction Javascript et calculée avec les informations de la base de données. On fait ressortir également le nombre de commentaires permettant le calcul de cette note.
 
 # _3.6 Tableau de bord administrateur_
 
@@ -54,8 +54,8 @@ Ici le tableau de bord administrateur avec toutes les informations du site (comm
 
 ![dashboard-vroomissimo](https://github.com/cedric-chimot/Vroomissimo/assets/106061524/1167dc0d-a659-4966-b09a-b0a260b95050)
 
-Chaque vendeur possède son propre tableau de bord avec les informations qui le concerne. IL peut ainsi gérer ses propres annonces,  les commandes clients etc...
+Chaque vendeur possède son propre tableau de bord avec les informations qui le concerne. Il peut ainsi gérer ses propres annonces,  les commandes clients etc...
 
 # 4- Conclusion
 
-Ce site partait à la base d'une idée de notre formateur pour découvrir le back-end. IL aura été ma première véritable expérience de création d'un site internet. J'ai beaucoup appris et tout ce que j'ai pu faire m'a aidé à comprendre le fonctionnement du langage PHP et la manipulation d'une base de données. Les nombreuses heures que j'ai passé à modifier encore et encore ce projet ont facilité l'obtention de ma certification.
+Ce site partait à la base d'une idée de notre formateur pour découvrir le back-end. Il aura été ma première véritable expérience de création d'un site internet. J'ai beaucoup appris et tout ce que j'ai pu faire m'a aidé à comprendre le fonctionnement du langage PHP et la manipulation d'une base de données. Les nombreuses heures que j'ai passé à modifier encore et encore ce projet ont facilité l'obtention de ma certification.
