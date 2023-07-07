@@ -50,6 +50,6 @@ Ici le tableau de bord administrateur avec toutes les informations du site (comm
 
 ![dashboard-vroomissimo](https://github.com/cedric-chimot/Vroomissimo/assets/106061524/1167dc0d-a659-4966-b09a-b0a260b95050)
 
-Chaque vendeur possède son propre tableau de bord avec les informations qui le concerne.
+Chaque vendeur possède son propre tableau de bord avec les informations qui le concerne. IL peut ainsi gérer ses propres annonces,  les commandes clients etc...
 
 # 4- Conclusion
