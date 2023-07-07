@@ -44,4 +44,12 @@ Vroomissimo est un projet "bonus" que j'ai pu réaliser durant ma formation dév
 
 ![avis-vroomissimo](https://github.com/cedric-chimot/Vroomissimo/assets/106061524/2cb0f539-061c-472c-8283-c5e3b673e911)
 
+# _3.6 Tableau de bord administrateur_
+
+Ici le tableau de bord administrateur avec toutes les informations du site (commandes, inscrits etc...).
+
+![dashboard-vroomissimo](https://github.com/cedric-chimot/Vroomissimo/assets/106061524/1167dc0d-a659-4966-b09a-b0a260b95050)
+
+Chaque vendeur possède son propre tableau de bord avec les informations qui le concerne.
+
 # 4- Conclusion
