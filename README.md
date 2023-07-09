@@ -26,6 +26,8 @@ Vroomissimo est un projet "bonus" que j'ai pu réaliser durant ma formation dév
 ![accueil2-vroomissimo](https://github.com/cedric-chimot/Vroomissimo/assets/106061524/e8125b86-bcff-432e-93be-20a0465bcd92)
 ![accueil3-vroomissimo](https://github.com/cedric-chimot/Vroomissimo/assets/106061524/e9ef14af-4a29-4ed6-a73f-28915414024f)
 
+La page d'accueil avec sa Navbar pour se rendre sur les différentes pages du site. On a aussi un accès au panier. On peut également retrouver les annonces les plus récentes ainsi qu'un bouton pour accéder à toutes les annonces.
+
 # _3.2 La section "à propos"_
 
 ![apropos-vroomissimo](https://github.com/cedric-chimot/Vroomissimo/assets/106061524/0a4db36c-c827-4b3e-be6d-2f3630051d7e)
@@ -58,4 +60,4 @@ Chaque vendeur possède son propre tableau de bord avec les informations qui le 
 
 # 4- Conclusion
 
-Ce site partait à la base d'une idée de notre formateur pour découvrir le back-end. Il aura été ma première véritable expérience de création d'un site internet. J'ai beaucoup appris et tout ce que j'ai pu faire m'a aidé à comprendre le fonctionnement du langage PHP et la manipulation d'une base de données. Les nombreuses heures que j'ai passé à modifier encore et encore ce projet ont facilité l'obtention de ma certification.
+Ce site fût créé afin de découvrir le back-end. Il aura été ma première véritable expérience de création d'un site internet. J'ai beaucoup appris et tout ce que j'ai pu faire m'a aidé à comprendre le fonctionnement du langage PHP et la manipulation d'une base de données. Les nombreuses heures que j'ai passé à modifier encore et encore ce projet ont facilité l'obtention de ma certification.
