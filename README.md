@@ -33,6 +33,8 @@ La page d'accueil avec sa Navbar pour se rendre sur les différentes pages du si
 ![apropos-vroomissimo](https://github.com/cedric-chimot/Vroomissimo/assets/106061524/0a4db36c-c827-4b3e-be6d-2f3630051d7e)
 ![apropos1-vroomissimo](https://github.com/cedric-chimot/Vroomissimo/assets/106061524/4384dd4b-992f-4cc4-adf0-7c6cbc24f06f)
 
+La page "à propos" avec un lien vers le formulaire de contact ainsi que les derniers commentaires des clients.
+
 # _3.3 Le récapitulatif des commandes_
 
 ![commandes-vroomissimo](https://github.com/cedric-chimot/Vroomissimo/assets/106061524/5f15d87a-a1ae-4e22-b1a2-f70afe53ed15)
