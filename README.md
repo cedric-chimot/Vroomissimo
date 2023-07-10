@@ -67,6 +67,12 @@ Chaque vendeur possède son propre tableau de bord avec les informations qui le 
 _- Les annonces :_
 
 ![annonces-vroomissimo](https://github.com/cedric-chimot/Vroomissimo/assets/106061524/ffa88771-66aa-4345-8009-f13801630aec)
+![annonces1-vroomissimo](https://github.com/cedric-chimot/Vroomissimo/assets/106061524/09f3cfab-0190-4505-bd87-4e37defc3eaf)
+
+
+_- Les commandes :_
+
+![commandes2-vroomissimo](https://github.com/cedric-chimot/Vroomissimo/assets/106061524/b4f9b4c2-a323-43de-81f9-b0ab867f9b66)
 
 # 4- Conclusion
 
