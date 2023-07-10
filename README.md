@@ -39,6 +39,8 @@ La page "à propos" avec un lien vers le formulaire de contact ainsi que les der
 
 ![commandes-vroomissimo](https://github.com/cedric-chimot/Vroomissimo/assets/106061524/5f15d87a-a1ae-4e22-b1a2-f70afe53ed15)
 
+Toutes les commandes passées par un client avec toutes les informations la concernant. Il y a aussi la possibilité d'envoyer un message à propos de la dite commande ou encore d'évaluer le vendeur.
+
 # _3.4 Les commentaires clients_
 
 ![comment-vroomissimo](https://github.com/cedric-chimot/Vroomissimo/assets/106061524/408841c4-e536-4923-b754-9b512355bd37)
