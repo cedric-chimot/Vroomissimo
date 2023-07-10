@@ -54,13 +54,19 @@ On retrouve ici les différents vendeurs inscrits sur le site.
 
 La note moyenne est obtenue grâce à une fonction Javascript et calculée avec les informations de la base de données. On fait ressortir également le nombre de commentaires permettant le calcul de cette note.
 
-# _3.6 Tableau de bord administrateur_
+# _3.6 La partie administrateur_
+
+_- Tableau de bord administrateur :_
 
 Ici le tableau de bord administrateur avec toutes les informations du site (commandes, inscrits etc...).
 
 ![dashboard-vroomissimo](https://github.com/cedric-chimot/Vroomissimo/assets/106061524/1167dc0d-a659-4966-b09a-b0a260b95050)
 
 Chaque vendeur possède son propre tableau de bord avec les informations qui le concerne. Il peut ainsi gérer ses propres annonces,  les commandes clients etc...
+
+_- Les annonces :_
+
+![annonces-vroomissimo](https://github.com/cedric-chimot/Vroomissimo/assets/106061524/ffa88771-66aa-4345-8009-f13801630aec)
 
 # 4- Conclusion
 
