@@ -69,10 +69,17 @@ _- Les annonces :_
 ![annonces-vroomissimo](https://github.com/cedric-chimot/Vroomissimo/assets/106061524/ffa88771-66aa-4345-8009-f13801630aec)
 ![annonces1-vroomissimo](https://github.com/cedric-chimot/Vroomissimo/assets/106061524/09f3cfab-0190-4505-bd87-4e37defc3eaf)
 
+Le formulaire pour ajouter une annonce et le rendu.
 
 _- Les commandes :_
 
 ![commandes2-vroomissimo](https://github.com/cedric-chimot/Vroomissimo/assets/106061524/b4f9b4c2-a323-43de-81f9-b0ab867f9b66)
+
+_- Les comptes Utilisateurs :_
+
+![dashboard1-vroomissimo](https://github.com/cedric-chimot/Vroomissimo/assets/106061524/f7a8298c-e06e-48b9-b573-ba77e6aed9a2)
+
+Présentation d'un utilisateur avec la possibilité de supprimer le compte.
 
 # 4- Conclusion
 
