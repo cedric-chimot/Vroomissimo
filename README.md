@@ -75,6 +75,8 @@ _- Les commandes :_
 
 ![commandes2-vroomissimo](https://github.com/cedric-chimot/Vroomissimo/assets/106061524/b4f9b4c2-a323-43de-81f9-b0ab867f9b66)
 
+Le récapitulatif des commandes passées, on peut les modifier ou les supprimer.
+
 _- Les comptes Utilisateurs :_
 
 ![dashboard1-vroomissimo](https://github.com/cedric-chimot/Vroomissimo/assets/106061524/f7a8298c-e06e-48b9-b573-ba77e6aed9a2)
