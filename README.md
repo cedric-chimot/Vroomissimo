@@ -17,6 +17,10 @@ Vroomissimo est un projet "bonus" que j'ai pu réaliser durant ma formation dév
 
 # 2- La base de données
 
+![mcd-vroomissimo](https://github.com/cedric-chimot/Vroomissimo/assets/106061524/0a03c28c-9482-4afb-93e5-c24c1b160bcc)
+![mld-vroomissimo](https://github.com/cedric-chimot/Vroomissimo/assets/106061524/ffb082f3-9189-452d-a0f7-1fda2606cf16)
+
+
 # 3- Le projet en détail
 
 # _3.1 La page d'accueil_
