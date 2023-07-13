@@ -19,6 +19,8 @@ Vroomissimo est un projet "bonus" que j'ai pu réaliser durant ma formation dév
 
 _Le MCD :_
 
+A l’aide du logiciel de modélisation conceptuelle de données ‘Looping’, j’ai commencé par réaliser le MCD (Modèle Conceptuel de Données).
+
 ![mcd-vroomissimo](https://github.com/cedric-chimot/Vroomissimo/assets/106061524/0a03c28c-9482-4afb-93e5-c24c1b160bcc)
 
 _Le MLD :_
