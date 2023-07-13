@@ -25,6 +25,8 @@ A l’aide du logiciel de modélisation conceptuelle de données ‘Looping’, 
 
 _Le MLD :_
 
+Du MCD, toujours grâce à Looping, j’ai pu élaborer le MLD, qui est le Modèle Logique de Données. Le MLD transforme les entités en tables avec ses attributs et transformes les associations en clés primaire et clés étrangères. Comme dans l’exemple ci-dessous.
+
 ![mld-vroomissimo](https://github.com/cedric-chimot/Vroomissimo/assets/106061524/ffb082f3-9189-452d-a0f7-1fda2606cf16)
 
 # 3- Le projet en détail
