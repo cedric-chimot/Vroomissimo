@@ -58,6 +58,8 @@ Toutes les commandes passées par un client avec toutes les informations la conc
 ![comment-vroomissimo](https://github.com/cedric-chimot/Vroomissimo/assets/106061524/408841c4-e536-4923-b754-9b512355bd37)
 ![comment1-vroomissimo](https://github.com/cedric-chimot/Vroomissimo/assets/106061524/fd771d20-0347-4398-9c0f-529f92c7b035)
 
+Le formulaire pour laisserun avis et tous les avis donnés par l'utilisateur.
+
 # _3.5 Notes moyennes des vendeurs_
 
 On retrouve ici les différents vendeurs inscrits sur le site.
